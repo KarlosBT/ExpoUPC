@@ -1,0 +1,7 @@
+{
+  "name": "ExpoUPC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
